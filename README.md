@@ -1,0 +1,1 @@
+# Osazie-store-api
